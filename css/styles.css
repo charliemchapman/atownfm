@@ -3,6 +3,7 @@
     background-image: none;
     color:#444;
     padding-bottom: 0px;
+    padding-top: 0px;
 }
 
 .page-header .logo-container{
@@ -15,7 +16,19 @@
     padding-bottom: 38px;
 }
 
+.page-header .home-links{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.page-header .home-links a{
+    display: inline-block;
+    width: 100px;
+    color: #999;
+}
+
 .subpage-header{
+    position: relative;
     background: #444;
     height: 70px;
     margin-bottom: 60px;
@@ -32,6 +45,26 @@
     background-color: white;
     border-radius: 50%;
     position: absolute;
+}
+
+.subpage-header .home-links{
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+}
+
+.subpage-header .home-links a{
+    color: white;
+    display: inline-block;
+    width: 100px;
+}
+
+.subpage-header .home-links .spacer{
+    display: inline-block;
+    width: 130px;
+    background-color: yellow;
 }
 
 .divider{

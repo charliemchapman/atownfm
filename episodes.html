@@ -1,0 +1,17 @@
+---
+layout: default
+title: {{ site.name }}
+---
+
+<div id="home">
+  <h1>Episodes</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        &middot;
+        <span class="date">{{ post.date | date_to_string }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

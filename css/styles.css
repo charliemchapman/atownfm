@@ -64,7 +64,30 @@
 .subpage-header .home-links .spacer{
     display: inline-block;
     width: 130px;
-    background-color: yellow;
+}
+
+@media (max-width: 600px) { 
+    .subpage-header{
+        height: 100px;
+    }
+
+    .subpage-header .logo-container{
+        top: 50px;
+        height: 90px;
+        width: 90px;
+    }
+
+    .subpage-header .home-links{
+        top: 10px;
+    }
+
+    .subpage-header .home-links a{
+        width: 80px;
+    }
+
+    .subpage-header .home-links .spacer{
+        width: 0px;
+    }
 }
 
 .divider{

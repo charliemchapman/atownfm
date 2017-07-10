@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Episode 001 - Spider-Man Posters, Hot to News, Andy Serkis "
+date:   2017-07-07 17:50:00
+categories: episodes
+---
+
+{% raw %}
+<iframe src="https://www.podomatic.com/embed/html5/episode/8498433?style=normal&amp;autoplay=false" allowfullscreen="true" style="width: 100%; height: 208px;"></iframe>
+{% endraw %}
+
+On this weeks episode our two intrepid hosts, Dan and Charlie, discuss a variety of topics ranging from the ridiculous posters for the new Spider-Man film, how we consume news in an age of heightened cynicism and social media, and whether or not Andy Serkis deserves an award for the many CGI characters he's played in film.
+
+#### Show Notes:
+- [Spider-Man Poster Parodies](https://www.google.com/search?q=spiderman+homecoming+poster+parody&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj00NyhifnUAhXD4CYKHcSMBQYQ_AUICigB&biw=1440&bih=776)
+- [Official Spider-Man IMAX Poster](https://www.google.com/search?q=spiderman+homecoming+poster+parody&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj00NyhifnUAhXD4CYKHcSMBQYQ_AUICigB&biw=1440&bih=776)

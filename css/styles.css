@@ -100,6 +100,20 @@
     opacity: .60;
 }
 
+.post-meta{
+    display:flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 1em;
+}
+
+.post-meta .post-links .google-play{
+    display: inline-block;
+    width:90px;
+    margin-right: 10px;
+    vertical-align: top;
+}
+
 .post-content p{
     font-size: 0.9rem;
 }

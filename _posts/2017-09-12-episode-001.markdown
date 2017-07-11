@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 001 - Spider-Man Posters, Hot to News, Andy Serkis "
+title:  "Episode 001 - Spider-Man Posters, How to News, Andy Serkis "
 date:   2017-07-07 17:50:00
 categories: episodes
 ---

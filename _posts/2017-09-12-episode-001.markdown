@@ -6,7 +6,7 @@ categories: episodes
 ---
 
 {% raw %}
-<iframe src="https://www.podomatic.com/embed/html5/episode/8498433?style=normal&amp;autoplay=false" allowfullscreen="true" style="width: 100%; height: 208px;"></iframe>
+<iframe src="https://www.podbean.com/media/player/82f93-6ceb1d?from=yiiadmin&skin=1&btn-skin=107&share=1&fonts=Helvetica&auto=0&download=1&rtl=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 {% endraw %}
 
 On this weeks episode our two intrepid hosts, Dan and Charlie, discuss a variety of topics ranging from the ridiculous posters for the new Spider-Man film, how we consume news in an age of heightened cynicism and social media, and whether or not Andy Serkis deserves an award for the many CGI characters he's played in film.

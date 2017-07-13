@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Episode 002 - Baby Driver: first impressions"
+date:   2017-07-13 15:00:00
+categories: episodes
+---
+
+{% raw %}
+<iframe src="https://www.podbean.com/media/player/aufzg-6cf167?from=yiiadmin&skin=1&btn-skin=107&share=1&fonts=Helvetica&auto=0&download=1&rtl=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+{% endraw %}
+
+On this weeks episode our two heroes give us a stream of consciousness of Edgar Wright's masterpiece film "Baby Driver" upon exiting the theater.
+
+#### Show Notes:
+- [Liam Neeson 15 cuts to jump a fence](http://imgur.com/irg55aK)
+- [Tony Zhou's Every Frame a Painting - Edgar Wright](https://www.youtube.com/watch?v=3FOzD4Sfgag)

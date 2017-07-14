@@ -4,14 +4,9 @@ title: A-Town
 ---
 
 <div id="home">
-  <h1>Latest Episodes</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        &middot;
-        <span class="date">{{ post.date | date_to_string }}</span>
-      </li>
-    {% endfor %}
-  </ul>
+  {% for post in site.posts %}
+    <div class="post">
+      {% include post-content.html post=post %}
+    </div>
+  {% endfor %}
 </div>

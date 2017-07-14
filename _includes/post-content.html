@@ -1,19 +1,8 @@
----
-layout: default
----
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=321000698338630";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<h2>{{ page.title }}</h2>
+<a class="post-header-link" href="{{ site.baseurl }}{{ post.url }}">
+    #{{post.number}} - {{ post.title }}
+</a>
 <div class="post-meta">
-    <p class="meta">{{ page.date | date_to_string }}</p>
+    <p class="meta">{{ include.post.date | date_to_string }}</p>
     <div class="post-links">
         <div class="google-play">
             <a href='https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/Iulmtptxmmizbms4xepnxmxpujy?t%3DA-Town%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16' rel='nofollow'><img width='125px' alt='Listen on Google Play Music' src='https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png'/></a>
@@ -23,8 +12,6 @@ layout: default
 </div>
 
 <div class="post-content">
-    {% include audio-player.html playerId=page.podbeanId %}
-    {{ content }}
+    {% include audio-player.html playerId=include.post.podbeanId %}
+    {{ post.content }}
 </div>
-
-<div class="fb-comments" data-href="http://atownfm.com{{ page.url }}" data-numposts="10" data-width="100%"></div>

@@ -120,6 +120,7 @@
     align-items: flex-end;
     justify-content: space-between;
     margin-bottom: 1em;
+    margin-top: 10px;
 }
 
 .post-meta .post-links .google-play{

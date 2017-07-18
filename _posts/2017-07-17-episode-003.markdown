@@ -5,6 +5,7 @@ title:  "Spider-Man Homecoming: The Spider-Man Episode"
 date:   2017-07-17 15:00:00
 categories: episodes
 podbeanId: "ih7wg-6d18a4"
+imageUrl: "http://atownfm.com/assets/a-town_003_logo.jpg"
 ---
 
 Welcome true believers!

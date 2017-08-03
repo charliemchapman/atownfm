@@ -11,4 +11,4 @@ imageUrl: "http://atownfm.com/assets/a-town_icon_eps_006.jpg"
 This week we delve deep into catacombs of issues such as IMAX vs regular film, sound quality in film, and possibilities of VR films in the future. Once we defeat the dungeon master Hans Zimmer and rescue the princess we come back up to the surface world to review Christopher Nolan's latest film Dunkirk.
 
 #### Show Notes:
-- [Steve Yedlin Film Stock Modeling Demo](https://t.co/tD9UJUxFfR)
+- [Steve Yedlin Film Stock Modeling Demo](http://www.yedlin.net/160105_edit.html)

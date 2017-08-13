@@ -117,6 +117,7 @@
 
 .post-meta{
     display:flex;
+    flex-wrap: wrap;
     align-items: flex-end;
     justify-content: space-between;
     margin-bottom: 1em;
@@ -152,4 +153,21 @@
 
 .site-footer{
     border-top: none;
+}
+
+.post-links{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post-links a{
+    width: 125px;
+}
+
+.post-links a:last-child{
+    width: 82px;
+}
+
+.post-links img{
+    height: 30px;
 }

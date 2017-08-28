@@ -171,3 +171,26 @@
 .post-links img{
     height: 30px;
 }
+
+.store-products {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.store-product {
+    text-align: center;
+    background-color: #EEE;
+    margin: 0px 10px 20px 10px;
+    padding: 10px;
+    width: 250px;
+}
+
+.store-product:hover {
+    background-color: #DCDCDC;
+}
+
+.store-product img {
+    text-align: center;
+    height: 230px;
+}

@@ -11,22 +11,30 @@ layout: default
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<h2>#{{ page.number }} - {{ page.title }}</h2>
-<div class="post-meta">
-    <p class="meta">{{ page.date | date_to_string }}</p>
-    <div class="post-links">
-        <a class="subscribe-itunes" href="https://itunes.apple.com/us/podcast/a-town/id1257353761?mt=2">
-            <img src="/assets/subscribe-links/subscribe-itunes.svg">
-        </a>
-        <a class="subscribe-overcast" href="https://overcast.fm/itunes1257353761/a-town">
-            <img src="/assets/subscribe-links/subscribe-overcast.svg">
-        </a>
-        <a class="subscribe-pocketcasts" href="http://pca.st/WbDg">
-            <img src="/assets/subscribe-links/subscribe-pocketcasts.svg">
-        </a>
-        <a class="subscribe-googleplay" href="https://play.google.com/music/m/Iulmtptxmmizbms4xepnxmxpujy?t=A-Town">
-            <img src="/assets/subscribe-links/subscribe-googleplay.png">
-        </a>
+
+<div class="post-content__header-container">
+    <div class="post-content__img">
+        <img src="{{ page.imageUrl }}"/>
+    </div>
+    <div>
+        <h2>#{{ page.number }} - {{ page.title }}</h2>
+        <div class="post-meta">
+            <p class="meta">{{ page.date | date_to_string }}</p>
+            <div class="post-links">
+                <a class="subscribe-itunes" href="https://itunes.apple.com/us/podcast/a-town/id1257353761?mt=2">
+                    <img src="/assets/subscribe-links/subscribe-itunes.svg">
+                </a>
+                <a class="subscribe-overcast" href="https://overcast.fm/itunes1257353761/a-town">
+                    <img src="/assets/subscribe-links/subscribe-overcast.svg">
+                </a>
+                <a class="subscribe-pocketcasts" href="http://pca.st/WbDg">
+                    <img src="/assets/subscribe-links/subscribe-pocketcasts.svg">
+                </a>
+                <a class="subscribe-googleplay" href="https://play.google.com/music/m/Iulmtptxmmizbms4xepnxmxpujy?t=A-Town">
+                    <img src="/assets/subscribe-links/subscribe-googleplay.png">
+                </a>
+            </div>
+        </div>
     </div>
 </div>
 

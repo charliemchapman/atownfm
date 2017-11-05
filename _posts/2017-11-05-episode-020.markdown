@@ -1,7 +1,7 @@
 ---
 layout: post
 number: 20
-title:  "The Halloween Spooktacular"
+title:  "Gunpowder Plot, Bonfire Night, V for Vendetta"
 date:   2017-11-05 7:00:00
 categories: episodes
 podbeanId: "pfwr4-7a53db"

@@ -1,7 +1,7 @@
 ---
 layout: post
 number: 24
-title:  "Batman's a Murderer, Star Wars Cannon Kerfuffle, EA ruins Battlefront, Christmas Movie Criteria"
+title:  "Batman's a Murderer, EA ruins Battlefront, Christmas Movie Criteria"
 date:   2017-12-06 7:00:00
 categories: episodes
 podbeanId: "epmsz-7e5ca5"

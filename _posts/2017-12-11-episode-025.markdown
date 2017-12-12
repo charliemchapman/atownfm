@@ -1,7 +1,7 @@
 ---
 layout: post
 number: 25
-title:  "Dan's Meltdown, Alkhobar Water Tower, Smirk Emoji, and Stranger Things 2"
+title:  "Dan's Meltdown, Alkhobar Tower, Smirk Emoji, and Stranger Things 2"
 date:   2017-12-11 7:00:00
 categories: episodes
 podbeanId: "f3z86-7ee7c8"

@@ -2,7 +2,7 @@
 layout: post
 number: 25
 title:  "Dan's Meltdown, Alkhobar Tower, Smirk Emoji, and Stranger Things 2"
-date:   2017-12-11 7:00:00
+date:   2017-12-12 7:00:00
 categories: episodes
 podbeanId: "f3z86-7ee7c8"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_025-StrangerThings2_01.jpg"

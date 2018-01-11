@@ -2,7 +2,7 @@
 layout: post
 number: 28
 title:  "Lists All the Way Down"
-date:   2018-01-10 7:00:00
+date:   2018-01-11 7:00:00
 categories: episodes
 podbeanId: "6wgyt-830164"
 imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"

@@ -34,6 +34,10 @@ a:hover {
     margin-left: 40px;
 }
 
+.header-image a{
+    margin: 0;
+}
+
 .header-image img {
     width: 100px;
     width: 100px;
@@ -88,4 +92,35 @@ a:hover {
 
 .post-summary {
     margin-top: 20px;
+}
+
+.post-content__header-container {
+    display: flex;
+}
+
+.post-content__img{
+    width: 30%;
+    flex-shrink: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.post-content__img img {
+    max-width: 100%;
+}
+
+@media (max-width: 830px) { 
+    .post-content__img{
+        display: none;
+    }
+}
+
+.episodes .post-content__img {
+    max-width: 130px;
+    width: 20%;
+    display: block;
+}
+
+.post-page {
+    padding: 60px 40px 40px 40px;
 }

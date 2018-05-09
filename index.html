@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: atown-layout
 title: A-Town
 sitemap:
     priority: 0.7
@@ -8,9 +8,15 @@ sitemap:
 ---
 
 <div id="home">
+  {% for post in site.posts limit:1 %}
+    <div class="atown-home-latest">
+      {% include atown-home-latest.html post=post %}
+    </div>
+  {% endfor %}
+
   {% for post in site.posts limit:5 %}
     <div class="post">
-      {% include post-content.html post=post %}
+      {% include atown-home-post-content.html post=post %}
     </div>
   {% endfor %}
 

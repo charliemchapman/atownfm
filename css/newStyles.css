@@ -1,0 +1,59 @@
+a {
+    color: #607D37;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.header {
+    background-color: #607D37;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #FDFDFD;
+}
+
+.header-links {
+    margin-right: 40px;
+}
+
+.header a {
+    color: #FDFDFD;
+    margin-left: 20px;
+}
+
+.header-image {
+    align-self: start;
+    margin-left: 40px;
+}
+
+.header-image img {
+    width: 100px;
+    width: 100px;
+}
+
+.main-content {
+    margin: 0;
+    padding: 0;
+}
+
+.atown-home-latest {
+    background-color: #90AD56;
+    padding: 40px;
+    padding-top: 60px;
+}
+
+.atown-home-latest .post-header-link, .atown-home-latest .post-content {
+    color: #FDFDFD;
+}
+
+.post {
+    padding: 40px;
+}
+
+.post-header-link {
+    color: #607D37;
+}

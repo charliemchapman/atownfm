@@ -6,6 +6,7 @@ date:   2018-05-01 7:00:00
 categories: episodes
 podbeanId: "2tat6-905970"
 imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"
+summary: "This week we do a lot of complaining. First off Apple can’t seem to make a podcast app, Charlie has to walk Dan off a ledge over MoviePass changes, and finally we have some feelings about the newest Venom trailer."
 ---
 
 This week we do a lot of complaining. First off Apple can’t seem to make a podcast app, Charlie has to walk Dan off a ledge over MoviePass changes, and finally we have some feelings about the newest Venom trailer.

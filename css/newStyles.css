@@ -1,5 +1,9 @@
+body {
+    font-family: 'Roboto';
+}
+
 a {
-    color: #607D37;
+    color: #375A28;
     text-decoration: none;
 }
 
@@ -52,8 +56,36 @@ a:hover {
 
 .post {
     padding: 40px;
+    border-bottom: 1px solid #EEE;
 }
 
 .post-header-link {
     color: #607D37;
+}
+
+.post-meta p{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    color: #5a5a5a;
+}
+
+.post-links{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post-links a{
+    width: 125px;
+}
+
+.post-links img{
+    height: 30px;
+}
+
+.post-header-link {
+    font-size: 1.5em;
+}
+
+.post-summary {
+    margin-top: 20px;
 }

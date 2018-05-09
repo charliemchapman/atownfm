@@ -22,5 +22,7 @@
 
 <div class="post-content">
     {% include audio-player-wide.html playerId=include.post.podbeanId %}
-    {{ post.content }}
+    <div class="post-summary">
+        {{ post.summary }}
+    </div>
 </div>

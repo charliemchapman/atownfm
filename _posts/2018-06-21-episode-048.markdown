@@ -2,7 +2,7 @@
 layout: post
 number: 48
 title:  "The Big E3 18’ Episode"
-date:   2018-06-20 7:00:00
+date:   2018-06-21 7:00:00
 categories: episodes
 podbeanId: "8aduu-93ae87"
 imageUrl: "http://atownfm.com/assets/a-town_logo_09.jpg"

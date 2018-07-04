@@ -1,0 +1,19 @@
+---
+layout: post
+number: 49
+title:  "Merica!"
+date:   2018-07-04 7:00:00
+categories: episodes
+podbeanId: "cdgip-9480bb"
+imageUrl: "http://atownfm.com/assets/a-town_icon_eps_049_july-4th.jpg"
+---
+
+This week we celebrate the Fourth of July by celebrating the things we love about America and our favorite patriotic movies.
+
+#### Show Notes:
+- [Christopher Hitchens on 'Like'](https://www.vanityfair.com/culture/2010/01/hitchens-like-201001)
+- [Station 13 Episode on Call Centers (starts at 26:50)](https://station13.fm/29/)
+- [Myth of Kaldi](https://en.wikipedia.org/wiki/Kaldi)
+
+
+- [Patreon](https://www.patreon.com/atownfm)
